@@ -1,7 +1,7 @@
 // VERSION: 2.0.6
 // 🟢 面板核心配置区 (放在最顶端方便修改)
 const CURRENT_VERSION = "2.0.6"; 
-const GITHUB_RAW_URL = "这里填下你的在线更新地址";
+const GITHUB_RAW_URL = "https://raw.githubusercontent.com/dingding229/embyproxy/refs/heads/main/worker.js";
 
 // ==========================================
 // 1. 网页界面-单播报版本
